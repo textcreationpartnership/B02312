@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Concerning the interloquitor in the action of reduction upon minority and lesion, at the instance of the Duke and Dutchess of Monmouth, against the Earl of Tweedale and his lady.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02312</idno>
+            <idno type="STC">Wing C5696B</idno>
+            <idno type="STC">ESTC R174219</idno>
+            <idno type="EEBO-CITATION">52211769</idno>
+            <idno type="OCLC">ocm 52211769</idno>
+            <idno type="VID">175598</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02312)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175598)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2742:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Concerning the interloquitor in the action of reduction upon minority and lesion, at the instance of the Duke and Dutchess of Monmouth, against the Earl of Tweedale and his lady.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Scotland :</pubPlace>
+                  <date>1677]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monmouth, James Scott, --  Duke of, 1649-1685 --  Trials, litigation, etc.</term>
+               <term>Buccleuch, Anna Scott, --  Duchess of, 1651-1732 --  Trials, litigation, etc.</term>
+               <term>Tweeddale, John Hay, --  Marquis of, 1645-1713 --  Trials, litigation, etc.</term>
+               <term>Decedents' family maintenance --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175598:1" rendition="simple:additions"/>
+            <head>Concerning the Interloquitor in the Action of Reduction upon Minority and Leſion, at the in<g ref="char:EOLhyphen"/>ſtance of the Duke and Dutcheſs of <hi>Monmouth,</hi> againſt the Earl of <hi>Tweedale</hi> and his Lady.</head>
+            <p>PReſident <hi>Stairs</hi> having then great Power and Influence in the Judicatory, was ſo devoted to the Duke and Dutcheſs of <hi>Monmouth,</hi> that both he and his Son Sir <hi>John,</hi> were Commiſſioners in ordering and managing Their Eſtate here; And the ſaid Sir <hi>John,</hi> was their Advocate in that Proceſs.</p>
+            <p>The Lord <hi>Melvil</hi> preſuming upon that Intereſt, and the intimate Friendſhip he had with the Preſident, and having the managing of that Eſtate, the Friends of the Name and Family being laid aſide, to endear himſelf and his Service as more concerned for their Intereſt than all the Friends Curators, and Commiſſioners, and Lawyers; and His late Majeſty Himſelf, who had interveened in the tranſaction with <hi>Tweedale</hi> and his Lady, both as Arbiter; And there after as Party and Garrantee, and taken burden that it ſhould not be queſtioned upon pretence of Minority: He did after they were of perfect Age, adviſe that the ſame ſhould be queſtioned by a Proceſs of Reduction at her inſtance upon the reaſon of Minority and Norm Leſion, and did inſiſt in the ſame, until one Interloquitor was obtained, which was in effect a ſentence as to the moſt material points, being in <hi>Jure</hi> and <hi>Relevancie.</hi> So that there needs no probation of the ſame.</p>
+            <p>Reductions of tranſactions ſo ſolemn, are ſo unfavourable, that if the perſuers after they are of Age, do ratifie the ſame, either expreſly or tacitly by making uſe thereof, or doing any Act that may import the leaſt homologation and acquieſſing thereunto, they are ſo concluded, that the Allegiance of homologation, is relevant and eleids any Proceſs of Re<g ref="char:EOLhyphen"/>duction; and yet Alleadgiance of homologation founded upon the Duke and Dutcheſs their giving Warrant after they were of perfect Age, to their Commiſſioners, to call for the Money due by <hi>Tweedale</hi> upon the ſaid tranſaction, and another homologation founded upon an Alleadgiance proponed by the Duke and Dutcheſs, their Advocates, in a Proceſs betwext them and a third Perſon upon the right of <hi>Haſſindean,</hi> given to them by <hi>Tweedale</hi> upon the ſaid tranſaction, were both repelled. The firſt, upon pretence that nothing had followed upon the ſame. And the Second, becauſe the Duke and Dutcheſs recovered no benefit upon the ſaid Alleadgiance, which pretences were moſt frifulous, ſeeing Law doth not conſider whether any thing follow upon ſuch homologations, or whether any bene<g ref="char:EOLhyphen"/>fit was recovered thereupon, but whether homologations did follow upon the tranſactions queſtioned, and perſuites and defences founded upon tranſactions in Law, are pregnant ratification the ſame, <hi>Et qui accepit agit.</hi>
+            </p>
+            <p>By the ſaid Interloquitor, it is found, that <hi>Francis</hi> Earl of <hi>Buccleugh</hi> being named by his Father, <hi>Walter</hi> Earl of <hi>Buccleugh,</hi> Executor and Univerſal Intromettor, without any mention of a Legacy left to him, was nevertheleſs Univerſal Legator as to the Deeds part, upon pretence that the Defunct did appoint the Tutors to apply the readieſt of the Earl's Goods, Geire, and Rents, for ſatisfying his Debts; by which Article of the Inter<g ref="char:EOLhyphen"/>loquitor, the half of the Lady <hi>Tweedale</hi>'s Intereſt, and ſhare of her Fathers Exequetrie is cut off without any Warrant or Ground in Law, ſeeing Univerſal Legacies in prejudice of Children, and neareſt of Kin are always, and ought to be in clear and in direct and formal words, <hi>viz.</hi> That a Perſon ſhould be named Univerſal Legator, or that the De<g ref="char:EOLhyphen"/>funct ſhould expreſly leave in Legacy to him his part, or in ſuch like words; Whereas the ſaid Earl <hi>Walter,</hi> who was in that quality, that in making his Teſtament, he could not want the advice of Lawyers and Writers, that knew the form and conception of Teſta<g ref="char:EOLhyphen"/>ments, and Univeral Legacies, did name his Son his Executor and Univerſal Intrometor, without leaving to him any Legacy, either particular, or Univerſal: And the ſaid
+<pb n="2" facs="tcp:175598:2" rendition="simple:additions"/>Clauſe anent his Goods, and applying the Rents to the uſe aforeſaid, is only an Order and Direction to the Tutors, to manage ſo his Eſtate, that the Rents ſhould be applied in manner aforeſaid; and that they ſhould be comptable yearly, to that purpoſe.</p>
+            <p>By the ſaid Interloquiter, there is a great part of the Lady <hi>Tweedale</hi> Her Claim and Share in her Fathers Exequetrie cut off, in ſo far as it is found that Annual rent is not due, for the Sums contained in a Decreet obtained immediately after; And in purſuance of the ſaid Tranſaction, at the inſtance of the Lady <hi>Tweedale</hi> againſt the Duke and Dutcheſs; Albe<g ref="char:EOLhyphen"/>it, the ſaid Sums being due to the ſaid Lady, as Executrix to <hi>David</hi> Her Brother, it was found moſt juſtly by the ſaid Decreet. Upon a full debate in <hi>Foro,</hi> that Annual rent was due for the ſame, until the death of <hi>David,</hi> in <hi>Anno</hi> 1648. In reſpect the ſaid Sums; <hi>David</hi> being Pupill and Minor, was not only <hi>pecuni<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pupillaris,</hi> but was in the hands of the ſaid Earl <hi>Francis</hi> and his Tutors, and applied by them for payment of the ſaid Earls Debts and Annual rents; and he having that uſe and benefit of <hi>David</hi>'s Money Annual rent, was therefore due not as <hi>uſura</hi> but as <hi>intereſſe,</hi> becauſe <hi>nemo debit locupletare cumaliena jactura;</hi> And it was a favour to the Duke and Dutcheſs, that Annual rent was only decerned until the time aforeſaid, and not until the Date of the ſaid Decreet in <hi>Anno</hi> 1667. And there after until payment, ſeeing Annual rent being once due and currant; and the ſame reaſon conti<g ref="char:EOLhyphen"/>nuing, <hi>viz.</hi> that they had the uſe and benefit of the Money belonging to <hi>David,</hi> and the Counteſs, in his Right Annualrent continued to be due, and could not ſiſt until payment.</p>
+            <p>There was due to Lady <hi>Mary Scott,</hi> one of the Bairnes and neareſt of Kin to the ſaid <hi>Walter</hi> Earl of <hi>Buccleugh,</hi> her part of his Exequetrie and movable Eſtate, but ſhe being deceaſed before the Lady <hi>Tweedale</hi> was Married, her part aforeſaid fell and belonged equally to the Lady <hi>Tweedale,</hi> and <hi>David</hi> her Brother, who did ſurvive the Lady <hi>Twee<g ref="char:EOLhyphen"/>dale</hi> her Marriage; and the Lady <hi>Tweedale</hi> having by her contract of Marriage, diſchar<g ref="char:EOLhyphen"/>ged and renounced that which might have faſlen to her by deceaſe of the ſaid Lady <hi>Mary,</hi> and the ſaid <hi>David</hi> having thereafter deceaſed, that which fell to him of the ſaid Lady <hi>Mary</hi> her part, did by his death accrew and belong to the ſaid Lady <hi>Tweedale;</hi> and albeit the ſubject of all diſpoſitions and renunciations of what may fall to any Perſon by the deceaſe of another, is limitted and underſtood to be that which had fallen to them at the time of their renouncing and diſponing the ſame, ſeeing what, after ſuch rights doth fall to them, was not exiſting, and is <hi>non ens,</hi> and not <hi>cogitatum</hi> in the time of ſuch re<g ref="char:EOLhyphen"/>nunciations: And what is given to them for the ſaid rights, is only given proportiona<g ref="char:EOLhyphen"/>bly and with reſpect, and in contemplation of their preſent Right; and not of that which did not then belong to them, not ſo much as in ſpe or appearance but to another; and for the reaſon aforeſaid, it was found by Decreet above-mentioned in <hi>Foro,</hi> that the Lady <hi>Tweedales</hi> renunciation of that which may fall to her by Deceaſe of the Lady <hi>Mary,</hi> could not be extended to that which ſhe had not at the time of the Contract of Marriage of the Lady <hi>Marys</hi> part, and which did thereafter, fall and accrew to her by the ſuperveni<g ref="char:EOLhyphen"/>ent death of the ſaid <hi>David;</hi> yet it was found by the ſaid Interloquitor, that the Lady <hi>Tweedale,</hi> her diſcharge and renunciation in her contract of Marriage, doth ſeclude her from any part of Lady <hi>Mary</hi> her Means.</p>
+            <p>The aforeſaid debate mentioned in the Sections, immediately preceding, concerning the ſaid Univerſal Legacy in favours of <hi>Francis</hi> Earl of <hi>Buccleugh,</hi> and Annual rent of the Sums due to the Lady <hi>Tweedale</hi> and Lady <hi>Mary,</hi> her part that fell where after her Contract of Mariage and Renunciation being in <hi>apicibus juris,</hi> and <hi>agitat,</hi> and decided by the afore<g ref="char:EOLhyphen"/>ſaid Decreet in <hi>Foro,</hi> in favours of the Earl of <hi>Tweedale</hi> and his Lady; Nevertheleſs, the Alleadgiance proponed by them, and founded unanſwerably upon the ſaid Decreet, was repelled by the aforeſaid Interloquitor, and the Duke and Dutcheſs reponed againſt the ſame, upon theſe pretences, mentioned in the Interloquitor, <hi>viz.</hi> Firſt, that the ſaid De<g ref="char:EOLhyphen"/>creet was paſs'd in order to the ſaid Tranſaction betwixt the Duke and Dutcheſs, and <hi>Tweedale</hi> and his Lady. And Secondly, That it was during their Minority; Whereas, to the ſaid firſt pretence, ſeeing that it was not pretended that it was given unjuſtly, the paſſing of it in order to the ſaid Tranſaction, ſhould have rather been a motive for ſuſtaining the ſame as unqueſtionable, in reſpect it is the ordinary and the great ſecurity of the People, and the Intereſt of Minors, that Tranſactions and Bargains may be made
+<pb n="3" facs="tcp:175598:2" rendition="simple:additions"/>with them, when there is a neceſſity to ſell or diſpoſe of their Lands or Goods, or to Tranſact for avoiding inextricable Pleas; and therefore beſides their Tutors, and Cura<g ref="char:EOLhyphen"/>tors of their Parents, of their own choice, the Law provides for obviating all ſuſpitions of Fraud and Leſion, that ſuch Tranſactions and Bargains concerning them, ſhould be Authoriſed by Decreets of the Ordinary Judges, and <hi>ex Religione &amp; authoritate Judicis;</hi> it is preſumed; <hi>preſumptione juris,</hi> that Tranſactions Authoriſed by Decreets, are with<g ref="char:EOLhyphen"/>out any Leſion, and juſt, and for the advantage of Minors, and ought to be unqueſtio<g ref="char:EOLhyphen"/>nable, otherwiſe, that ſeverity (both to Minors and others, who contracteth with them <hi>de rebus minorum ſine Decreto, non alienandis</hi> introduced by the <hi>Common-Law,</hi> and the cuſtom of this and other Nations) ſhould be altogether ineffectual and to no purpoſe.</p>
+            <p>The pretence of Minority for reponing the Duke and Dutcheſs to their defences againſt the ſaid Decreet; and in ſpecial, anent the points aforeſaid is moſt frivoulous and unwar<g ref="char:EOLhyphen"/>rantable, in reſpect they could not be reponed to any defences, but ſuch as were omitted for them: whereas their defences, as to the ſaid particulars, was not omitted, but vigo<g ref="char:EOLhyphen"/>rouſly and fully proponed and argued, and the Judges Sentence following upon a full debate, cannot be ſaid to be any deed or omiſſion of Minors through the frailty of their age, being the deed and deciſion of the ſupreme Judge, which is preſumed to be, and ought ever to be juſt, whatever the quality or age of the Perſons concerned, or Pleading before them be: And there can be nothing more derogatory to the Honour and Juſtice of Courts then that their deciſions in Jure, which are ever <hi>eidem,</hi> ſhould be unjuſt againſt Minors; and <hi>ſuper iiſdem deductis,</hi> there ſhould be contrary deciſions upon no other pre<g ref="char:EOLhyphen"/>tence, but that they were Minors when the former was given.</p>
+            <p>It is found by the ſaid Interloquitor, that His Majeſties interpoſition in the ſaid Tran<g ref="char:EOLhyphen"/>ſactions can have no effect if it ſhould appear by the event of that Proceſs, that the matter was not ſufficiently repreſented to His Majeſty, which appears to be very ſtrange and un<g ref="char:EOLhyphen"/>warrantable, both as to the form and matter, ſeeing the queſtion whether His Majeſties Interpoſition ſhould be effectual or not, was not then, nor could be under debate, unleſs there had been a reduction intented in behalf of His Majeſty, for reducing the late King His Obligement, whereby he became Garrantee, and took burden, and was obliged that the Duke and Dutcheſs ſhould ratifie at their perfect Age, which by the ſaid Inter<g ref="char:EOLhyphen"/>loquitor, is exten<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d to be but <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne Interpoſition, tho' it be a moſt clear and pregnant Obligement; And the King in the ſaid Proceſs, wherein the ſaid Interloquitor is given, is not Party either as Perſuer or Defender, and intimation is only made to his Advocate of the ſaid Proceſs, which is of courſe, and ought to have been done in Law and Form by <hi>Tweedale</hi> and his Lady: And as to the matter if the ſaid diſcharge and Obligement, had been queſtioned by a Libelled Summons, and Reduction in behalf of His Majeſty upon that pretence, that the time of the ſaid Tranſaction, the matter was not ſufficient<g ref="char:EOLhyphen"/>ly repreſenting to His Majeſty; the Lord and Lady <hi>Tweedale,</hi> would have had a moſt relevant defence to elide the ſame, <hi>viz.</hi> that His Majeſty being Major and Sciens, and prudent did take burden for the Minors, and did oblige himſelf in manner aforeſaid; and ſhould have conſidered then, whether the matter was ſufficiently repreſented, and if he did not, it was not <hi>Tweedale</hi> nor his Ladies fault, nor could be a ground of Reducti<g ref="char:EOLhyphen"/>on of the Kings Obligement; but the miſtake in the ſaid Interloquitor was, that it was not conſidered that there was a great difference betwixt His Majeſties acting in His Roy<g ref="char:EOLhyphen"/>al capacity, and giving Grants and Gifts to His Subjects, and His Majeſties acting as <hi>privatus</hi> and <hi>cuilibet</hi> in Contracts and Tranſactions, and as a Party, and obliged for per<g ref="char:EOLhyphen"/>formance of the ſame; ſeeing Royal Favours and Grants may be, and are often elicited by ſuggeſtion and miſ-repreſentation, by ſubreption or obreption, which is never thought to be incident to Tranſactions or Obligements, which are the reſult of Treaty and De<g ref="char:EOLunhyphen"/>bate, and great deliberation: And as a private Perſon could not without abſurdity, pre<g ref="char:EOLhyphen"/>tend to be free of a Tranſaction or Obligement to Warrant the ſame, upon ſo frivulous a pretence, that the matter was not fully repreſented; much leſs the Tranſactions and Obligements of Princes can be queſtioned upon the ſame, ſeeing above all others in Their Tranſactions, <hi>Bone Fides,</hi> and Juſtice and Honour is ſaid to Exuberat. And it is not conceived that upon the event of a Proceſs ſo long after it can appear that the matter was not fully repreſented, the time of the ſaid Tranſaction in reſpect whatever the Iſſue
+<pb n="4" facs="tcp:175598:3"/>of the Proceſs be, in Jure it cannot be known by the ſame what was repreſented, the ſaid Tranſaction that being in Fact: And it cannot be thought <hi>Tweedale</hi> and his Lady would not fully repreſent the matter as to themſelves, and their own Intereſt; and if what did concern the adverſe Party, was not repreſented for them by their Commiſſio<g ref="char:EOLhyphen"/>ners, Curators, and Lawyers, it cannot be imputed to <hi>Tweedale</hi> or his Lady, or enervate the ſaid Tranſaction and the Kings Obligement: But it is not to be preſumed the Inte<g ref="char:EOLhyphen"/>grity and Ability of ſo many Perſons of Quality, that was concerned in the ſaid Tranſ<g ref="char:EOLhyphen"/>action in behalf of the Duke and Dutcheſs, being conſidered that the matter was not fully repreſented for them; and it appears by the ſaid Decreet, at the Inſtance of <hi>Twee<g ref="char:EOLhyphen"/>dale</hi> and his Lady; ſo ſoon after and in purſuance of the ſaid Tranſaction, that all the ſaid grounds and ſubtilities whereupon the ſaid Interloquitor proceeds, was then fully repre<g ref="char:EOLhyphen"/>ſented.</p>
+            <p>From the Premiſſes and what is repreſented in the other Paper, given in for <hi>Tweedale</hi> and his Lady, it evidently appears that with great patience and diligence, they have been at great trouble and charge to defend againſt ſo long and tedious a Proceſs, that nothing has been omitted, that could be ſaid or done in the ſame; and the Duke and Dutcheſs being conſcious that <hi>Tweedale</hi> and his Lady had gotten ſo hard a meaſure, and being con<g ref="char:EOLhyphen"/>tent to remit a very conſiderable part of what <hi>Tweedale</hi> would have been forc'd to pay upon the aforeſaid Interloquitor and decreet, that would have followed upon it; The Earl of <hi>Tweedale</hi> and his Lady by their accepting the ſaid eaſe, and granting a Bond for a far leſs Sum, has done nothing in prejudice of the ſaid Tranſaction; and by the contra<g ref="char:EOLhyphen"/>ry, if they had not accepted of the Terms aforeſaid, it might have been obtruded to them, that they had prejudged both themſelves and the King. And therefore it is hum<g ref="char:EOLhyphen"/>bly deſired, and expected from His Majeſties Juſtice and Goodneſs, that a courſe may, and will be taken for their Relief conform to the ſaid Tranſaction, and His late Maje<g ref="char:EOLhyphen"/>ſties Obligement.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
